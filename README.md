@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @emillly25
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React
+- 📫 Please contact to me 'seeeh0128@gmail.com'
 
 <!---
 emillly25/emillly25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
