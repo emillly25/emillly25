@@ -1,6 +1,6 @@
 👋 Hi, I’m SEHEE
 
-🌱 I’m currently learning NextJS
+🌱 I’m currently learning NextJS, recoil, tailwindcss
 
 📫 Please contact to me 'seeeh0128@gmail.com'
 
