@@ -1,6 +1,6 @@
 👋 Hi, I’m SEHEE
 
-🌱 I’m currently learning NextJS!! 
+🌱 I’m currently learning Flutter!! 
 
 📫 Please contact to me 'seeeh0128@gmail.com'
 
